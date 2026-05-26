@@ -66,6 +66,22 @@ This project allows users to:
 - Orders
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home](Screenshotshome.png)
+
+### 🔐 Login Page
+![Login](Screenshotslogin.png)
+
+### 🍔 Menu Page
+![Menu](Screenshotsmenu.png)
+
+### 🛒 Cart Page
+![Cart](Screenshotscart.png)
+
+### 🤖 ChatBot
+![ChatBot](Screenshotschatbot.png)
 
 # 👩‍💻 Developed By
 
