@@ -71,27 +71,27 @@ This project allows users to:
 
 ## 🏠 Home Page
 
-![Home Page](Screenshotshome.png)
+![Home Page](Screenshots/home.png)
 
 ## 🍔 Food Menu
 
-![Menu Page](Screenshotsmenu.png)
+![Menu Page](Screenshots/menu.png)
 
 ## 🛒 Cart Page
 
-![Cart Page](Screenshotscart.png)
+![Cart Page](Screenshots/cart.png)
 
 ## 🔐 Login Page
 
-![Login Page](Screenshotslogin(8).png)
+![Login Page](Screenshots/login(8).png)
 
 ## 📝 Register Page
 
-![Register Page](Screenshotsregister.png)
+![Register Page](Screenshots/register.png)
 
 ## 🤖 ChatBot Page
 
-![ChatBot Page](Screenshotschatbot.png)
+![ChatBot Page](Screenshots/chatbot.png)
 
 # 👩‍💻 Developed By
 
