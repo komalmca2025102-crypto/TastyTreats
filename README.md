@@ -70,7 +70,7 @@ This project allows users to:
 # 👩‍💻 Developed By
 
 - Komal Patil-102
-- Pranjal Mulel-97
+- Pranjal Mule-97
 
 ---
 
