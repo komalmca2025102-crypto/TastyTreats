@@ -69,8 +69,8 @@ This project allows users to:
 
 # 👩‍💻 Developed By
 
-- Komal Patil  
-- Pranjal Mulel
+- Komal Patil-102
+- Pranjal Mulel-97
 
 ---
 
